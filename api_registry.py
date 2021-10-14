@@ -16,7 +16,7 @@ id_1 = "123"
 
 # signer address and private key
 address = "0x461B99bCBdaD9697d299FDFe0879eC04De256DA1"
-private_key = "4203a13f5b04d83bf35d00982c8d7ed3af7c99ee446300da7a35705b135a4164"
+private_key = "4203a13f5b04d83bf35d00982c8d7ed3........6300da7a35705b135a4164" #fake ,key
 
 # smart contract address and abi
 registries_abi = open("trustmydata/registry.abi", "r").read()
