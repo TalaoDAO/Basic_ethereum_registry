@@ -6,6 +6,6 @@
             "legalName": "Talao SAS",
             "currentAddress": "Talao, 16 rue de Wattignies, 75012 Paris, France",
             "website": "https://talao.co",
-            "issuerDomain" : "talao.co"
+            "issuerDomain" : ["talao.co"]
 		}
 }
