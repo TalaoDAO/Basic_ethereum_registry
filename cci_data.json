@@ -1,0 +1,13 @@
+{
+          "preferredName": "Chamber of commerce",
+          "did": ["did:ethr:0x8A837ACCd6Dc24dbBd408dcf4EB98A6C8413631A"],
+          "eidasCertificatePem": [{}],
+          "serviceEndpoints": [{}, {}],
+          "organizationInfo": {
+              "id": "837676567",
+              "legalName": "Chamber of commerce",
+              "currentAddress": "7, Rue Alcide de Gasperi Luxembourg Kirchberg",
+              "vatNumber": "LX78837674480",
+              "website": "https://www.cc.lu/en/home/",
+              "issuerDomain" : ["compell.io"]
+          }
