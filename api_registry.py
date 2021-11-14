@@ -145,7 +145,7 @@ def test_call():
     assert json.loads(contract.functions.get_issuer_data(did).call()) == dict_data
     id = str(uuid.uuid4())
     text = id + '_test'
-    set_issuer(id, text)
+    assert set_issuer(id, text) == True
     assert contract.functions.get_issuer_data(id).call() == text
 
 # MAIN entry point for local running, use NGINX + gunicorn, ... for remote and production,
