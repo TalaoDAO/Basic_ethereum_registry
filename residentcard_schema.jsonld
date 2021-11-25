@@ -1,6 +1,6 @@
 {
     "name" : "https://schema.org/name",
-    "description" : "hhtps://chema.org/description",
+    "description" : "https://schema.org/description",
     "ResidentCard" : {
         "@id": "https://github.com/TalaoDAO/TrustMyData-proto/blob/main/vocab",
         "@context": {
